@@ -1,0 +1,33 @@
+{
+  "name": "sequelizedburger",
+  "version": "1.0.0",
+  "description": "Sequelized version of original burger application - Homework #13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emswann/sequelizedBurger.git"
+  },
+  "keywords": [
+    "sequelize",
+    "burger",
+    "logger"
+  ],
+  "author": "Elaina M. Swann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emswann/sequelizedBurger/issues"
+  },
+  "homepage": "https://github.com/emswann/sequelizedBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.36.1"
+  }
+}
