@@ -17,7 +17,7 @@ You should be able to download the files via the github pages link below and run
 [https://github.com/emswann/sequelizedBurger](https://github.com/emswann/sequelizedBurger).
 
 The application has also been published on Heroku:
-[https://sequelizedBurger-ems.herokuapp.com/](https://sequelizedBurger-ems.herokuapp.com/).
+[https://sequelizedburger-ems.herokuapp.com/](https://sequelizedBurger-ems.herokuapp.com/).
 
 ## Prerequisites
 
